@@ -1,0 +1,6 @@
+https://streamable.com/l4uqww (OLD VIDEO)
+https://cdn.discordapp.com/attachments/1088211433906516088/1088761886213947413/VespyGrabber_Showcase_By_T_s0007.mp4 (NEW VIDEO)
+https://discord.gg/GRvxvz4MXZ
+
+** ALSO **
+If you see any cmd.exe popup while opening VespyGrabber.py, just close them, some of the packages I use open cmds idfk why, ill fix that next update
