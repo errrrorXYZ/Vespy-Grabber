@@ -1,0 +1,5 @@
+What is procdump ?
+
+Procdump is a microsoft application used in vespy to dump memory strings from running processes.
+
+Procdump Documentation : https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
