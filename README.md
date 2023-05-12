@@ -3,7 +3,7 @@ Requirement
 ------------
 Python 3.9.5
 ------------
-Creds to vesper#7387
+Creds to vesper#7387 / https://vespyprojects.com/
 ------------
 Posted by 𝙨𝙚𝙩𝙝#0001
 ------------
